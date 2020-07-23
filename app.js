@@ -16,7 +16,7 @@ function askQuestion(){
     if (userCodeAnswer == "yes"){
         alert('I do too');
     } else {
-        alert('That is too bad.  We only groom dog!);
+        alert('That is too bad. We only groom dogs.');
     }
 }
 askQuestion();
