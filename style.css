@@ -4,7 +4,30 @@ body {
 }
 
 h1{
-    font-size: large;
+    font-size: 60px;
     color: whitergb(223, 209, 209);
+    text-align: center;
+    text-decoration: underline;
+}
 
+nav > ul > li {
+    display: inline;
+    font-size: 25px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.hero {
+    width: 800px;
+}
+
+.first {
+    float: left;
+    width: 60%;
+    height: 60%;
+}
+.second {
+    float: left;
+    width: 40%;
+    height: 40%;
 }
